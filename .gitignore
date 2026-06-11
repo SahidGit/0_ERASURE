@@ -7,3 +7,9 @@ npm-debug.log*
 *.err.log
 Design 1 .jpeg
 Design 2.jpeg
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
