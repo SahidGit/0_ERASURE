@@ -1,0 +1,9 @@
+node_modules
+dist
+.env
+.env.*
+npm-debug.log*
+*.log
+*.err.log
+Design 1 .jpeg
+Design 2.jpeg
